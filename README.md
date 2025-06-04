@@ -34,5 +34,5 @@ Test Connectivity – eg. Launch an EC2 instance within the VPC and verify netwo
 
 ![awsvpc010.png](./media/awsvpc010.png)
 
-![awsvpc011.png](./media/awsvpc011.png)
+[//]: ![awsvpc011.png](./media/awsvpc011.png)
 
